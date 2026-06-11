@@ -3,7 +3,7 @@ title: "Juliana Walker"
 image: "juliana_walker_headshot.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/juliana-walker-589622281/"
+    url: "https://www.linkedin.com/in/juliana-walker/"
   - label: GitHub
     url: "https://github.com/jkwalker3"
   - label: Email
